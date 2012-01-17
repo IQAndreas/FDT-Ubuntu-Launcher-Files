@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=FDT5
+#Comment=
+Exec=fdt5
+Icon=/opt/fdt5/fdt-icon.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Application;IDE;

@@ -1,0 +1,12 @@
+# Clean out viewer settings for FDT
+# Could remove the windows and MAC settings as well, but it seems a bit uneccessary. ;)
+
+# 32 bit linux
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux32/.SWFViewerCheck
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux32/.SWFViewerLock
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux32/.SWFViewerRestartInfo
+
+# 64 bit linux
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux64/.SWFViewerCheck
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux64/.SWFViewerLock
+rm -f /opt/fdt5/plugins/com.powerflasher.fdt.ui.swfViewer_5.0.0.1412/linux64/.SWFViewerRestartInfo
