@@ -1,3 +1,4 @@
+#!/bin/sh
 # Clean out viewer settings for FDT
 # Could remove the windows and MAC settings as well, but it seems a bit uneccessary. ;)
 
